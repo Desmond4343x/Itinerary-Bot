@@ -1,0 +1,22 @@
+error handling, error case set display message
+greeting issue giving fail response
+only 1 cite possible, multiple cites didn't design
+2 word tags for differentiation bw similar canonical headings
+ideally, only the most relevant (as min as possible) number of tags should be sent to gemini
+frequency count of tags to decide which aspect more important
+priority can be given to tags
+
+not well optimized i feel as tags are manually written, limited
+no bounds to natural language,
+needs proper context handling
+can be easily achieved through gemini bu 1 extra call make it costly and slow
+
+spacy to process query and find token combinations
+
+pymupdf didn't work
+converted pdf into bytecode manually using OCR
+use OCR for image based - > text based pdf for efficient PyMuPDF
+
+expecting static content
+structure fixed of pdfs
+manual mapping, hardcoded keywords
