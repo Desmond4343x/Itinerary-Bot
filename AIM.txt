@@ -1,0 +1,27 @@
+Itinerary Mini-Bot (Delivery/Ops)
+
+Goal: Answer 10 fixed FAQs for a single booking (hotel address, check-in/out, pickup time, baggage rule link) using the booking’s PDF + a small FAQ file.
+
+Why it’s intern-friendly: Tiny RAG without vector DB complexity.
+
+Stack:
+
+Python + PyMuPDF for text extraction
+
+OpenAI for answer synthesis (prompt constrained to supplied text)
+
+Simple /ask?booking_id=…&q=… API + minimal web chat
+
+How it works:
+
+Upload one itinerary PDF → extract & cache plaintext.
+
+For a query, search the cached text with keyword windows.
+
+Send only the matched snippets + policy FAQ to GPT; return answer with quoted citation.
+
+Demo script (5 mins): Upload 1 PDF → ask 5 questions → see exact snippet used.
+
+Success: ≥95% answers include a citation; p95 latency <1.5s; zero answers without evidence.
+
+Guardrails: If no match → “I don’t see this in your itinerary—contact support,” with link. Redact PNR/passport patterns.
