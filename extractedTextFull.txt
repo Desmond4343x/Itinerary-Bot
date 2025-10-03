@@ -4,7 +4,7 @@ Lead Traveler: Rahul Mehra (DOB: 14 Mar 1990)
 Travelers: 2 Adults, 1 Child (Ages: 35, 34, 6)
 Travel Dates: 24 Oct 2025 - 28 Oct 2025 (4 nights)
 Destination: Goa, India
-Support (24×7 Ops): +91-80-4000-1234 | ops@trip.example
+Support (24×7 Ops): +91-80-4000-1234 | xyz@abc.in
  Emergency WhatsApp: wa.me/910000001234
 Flights
 Outbound | Fri, 24 Oct 2025
@@ -44,25 +44,25 @@ Voucher #: ACT-903311 | Operator: Coastal Journeys (+91-88888-45670)
 Day 3 (Sun, 26 Oct 2025): Sunset River Cruise
 Time: 17:30-19:00 | Boarding: Panaji Jetty, Counter 3 by 17:00
 Voucher #: ACT-903498 | Operator: Mandovi Cruises (+91-88888-77821)
-Traveler Documents (for check-in)
+Traveler Documents
 Lead Traveler: Rahul Mehra | Passport: Z1234567 | Expiry: 09 Nov 2031
  Co-Traveler: Aisha Mehra | Passport: N9876543 |
 Expiry: 17 May 2032
  Child: Kabir Mehra | Birth Cert #: B-2020-5567
 Note: Please carry the same ID used during booking. Keep a soft copy of vouchers.
 TripFactory - Policies & FAQs
-Airline Baggage Policy (Summary)
+Airline Baggage Policy
 Checked Baggage: 1 piece up to 23 kg per adult on Indigo Saver fare.
 Cabin Baggage: 1 piece up to 7 kg + small personal item.
 Strollers: Allowed free for infants (subject to airline policy).
 For detailed rules, refer to Indigo policy: [https://www.goindigo.in/baggage.html](https://www.goindigo.in/baggage.html)
-Hotel Policies (Bayview Resort Goa)
+Hotel Policies
 Check-in/Check-out: Standard check-in at 14:00; check-out at 11:00.
  Early Check-in: Subject to availability; charges may apply.
 Child Policy: One child up to 6 years stays free sharing existing bedding.
  Special Requests: Not guaranteed;
 the property will attempt to honor them.
-Key Facts for Q&A (Findable by the Mini-Bot)
+Key Facts for Q&A
  Hotel Address: 221, Beach Road, Candolim, Goa 403515
 Hotel Check-in Time: 14:00 on 24 Oct 2025
 Hotel Check-out Time: 11:00 on 28 Oct 2025
@@ -72,9 +72,9 @@ Airport Pickup Time: 09:20 at MOPA Arrivals, Gate B (24 Oct 2025)
 Hotel Phone: +91-832-222-3344
 Tour Meeting Point: Hotel Lobby at 09:45 (25 Oct 2025)
 Cruise Boarding Point: Panaji Jetty, Counter 3 at 17:00 (26 Oct 2025)
- Support Email: ops@trip.example
+ Support Email: xyz@abc.in
 Contact & Escalation
-Primary Support: +91-80-4000-1234 $(24\times7)$ | ops@trip.example
+Primary Support: +91-80-4000-1234 $(24\times7)$ | xyz@abc.in
  If something is missing or incorrect: "I don't see this in your itinerary-contact
  support" via the app Help Center.
 Escalation (India office hours): +91-80-4000-5678 | Address: 3rd Floor, Tech Park,

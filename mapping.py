@@ -5,10 +5,10 @@ canonical_headings = [
     "Hotel",
     "Airport Transfers",
     "Activities & Vouchers",
-    "Traveler Documents (for check-in)",
-    "Airline Baggage Policy (Summary)",
-    "Hotel Policies (Bayview Resort Goa)",
-    "Key Facts for Q&A (Findable by the Mini-Bot)",
+    "Traveler Documents",
+    "Airline Baggage Policy",
+    "Hotel Policies",
+    "Key Facts for Q&A",
     "Contact & Escalation"
 ]
 
